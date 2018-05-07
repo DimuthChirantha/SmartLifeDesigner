@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "580870382997",
+    "firebase_url": "https://pdmprototype.firebaseio.com",
+    "project_id": "pdmprototype",
+    "storage_bucket": "pdmprototype.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580870382997:android:0d7b23345fd4e356",
+        "android_client_info": {
+          "package_name": "com.example.issa.project_eat_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580870382997-6ou0o46s4ks7a425o4g6u1jt1qnlvcpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYWjnYjVdkHo8TnulUMJ4gT_TyU2TPc5I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
